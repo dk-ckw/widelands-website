@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder};",
+        // "MOD_WSGI_APACHE_ROOTDIR": "C:/-/kp/Apache24",
+        // "DJANGO_SETTINGS_MODULE": "conf.setting.dev",
+    },
+}

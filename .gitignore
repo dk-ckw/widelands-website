@@ -7,3 +7,4 @@ mainpage/local*.py
 media/*
 !media/wlprofile/avatars/anonymous.png
 whoosh_index
+.venv
